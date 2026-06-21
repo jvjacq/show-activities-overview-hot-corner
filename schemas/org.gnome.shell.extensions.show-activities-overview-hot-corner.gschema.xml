@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.show-activities-overview-hot-corner"
+          path="/org/gnome/shell/extensions/show-activities-overview-hot-corner/">
+    <key name="corner" type="s">
+      <default>'top-left'</default>
+      <summary>Hot corner position</summary>
+      <description>Which corner triggers the action: top-left, top-right, bottom-left, bottom-right</description>
+    </key>
+  </schema>
+</schemalist>

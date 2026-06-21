@@ -1,0 +1,12 @@
+{
+  "name": "Show Activities Overview Hot Corner",
+  "description": "Toggle the Activities overview by moving your mouse to a configurable screen corner.",
+  "uuid": "show-activities-overview-hot-corner@jvjacq.com",
+  "version": 1,
+  "settings-schema": "org.gnome.shell.extensions.show-activities-overview-hot-corner",
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "url": "https://github.com/jvjacq/show-activities-overview-hot-corner",
+  "donations": {
+    "buymeacoffee": "jvjacq"
+  }
+}
