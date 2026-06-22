@@ -1,6 +1,6 @@
 # Show Activities Overview Hot Corner
 
-A GNOME Shell extension that toggles the Activities overview when your mouse hits a configurable screen corner.
+A GNOME Shell extension that toggles the activities overview when your mouse hits a configurable screen corner.
 
 ## Features
 
