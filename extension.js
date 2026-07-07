@@ -53,7 +53,7 @@ export default class ShowActivitiesOverviewHotCorner extends Extension {
 
         if (this._corner) {
             this._corner.disconnectObject(this);
-            global.stage.remove_child(this._corner);
+            this._corner.get_parent()?.remove_child(this._corner);
             this._corner.destroy();
             this._corner = null;
         }
